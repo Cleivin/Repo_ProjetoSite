@@ -5,5 +5,5 @@
 Para Executar esse projeto:
 
 ```
-npm install
+nodeapp.js
 ```
